@@ -18,6 +18,7 @@
 #include <avr/pgmspace.h>
 #include <Adafruit_GFX.h>
 #include <RGBmatrixPanel.h>
+#include "ColorGenerators.h"
 #include "Chronodot.h"
 #include "button.h"
 #include "font.h"
